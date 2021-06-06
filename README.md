@@ -1,2 +1,2 @@
 # Sankey_diagram
-This is an attempt at creating a snakey diagram with plotly HTML for interactivity
+The sankey diagram displays the list of companies that recruit industrial engineers and the skills they look for in candidates.
